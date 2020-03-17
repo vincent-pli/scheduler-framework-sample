@@ -1,4 +1,4 @@
-# scheduler-framework-sample
+# scheduler-framework-sample for gang scheduler
 
 ![](https://github.com/angao/scheduler-framework-sample/workflows/Go/badge.svg)
 
